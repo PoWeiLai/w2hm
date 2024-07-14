@@ -209,8 +209,16 @@ background-image: url("img/background-img.png");
 .btn{
     width: 185px;
     border-radius: 32%;
-
+  
+    
 }
+.profile button{
+    background-color: white;
+}
+.seeMoreItem button{
+    background-color: black;
+}
+
 .textRight{
     text-align: end;
 }
